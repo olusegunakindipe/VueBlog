@@ -9,7 +9,7 @@ export const store = new Vuex.Store({
             {
                ImageTitle:'Image One',
                image : require('../assets/images/img1.jpg'),
-               desc:"This is the first picture and it is lovely",
+               desc:"This is the first picture and it's lovely",
                id: 1
            },
             {
