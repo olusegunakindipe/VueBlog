@@ -1,4 +1,4 @@
-# firstproject
+# Vue Blog Project
 
 > A Vue.js project
 
